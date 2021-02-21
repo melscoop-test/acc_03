@@ -24,4 +24,4 @@ jobs:
           body: |
               Here's what has changed:
           draft: true
-		     prerelease:false
+            prerelease:false
